@@ -15,7 +15,7 @@ Me chamo Nicollas, sou desenvolvedor front-end em transição de carreira e sou 
  
 <br>
 ## 📚 Atualmente estudando
-
+<br>
 - React (`useState`, `useEffect`, `useSearchParams`)
 - Padrões de organização CSS (7-1, ITCSS)
 - Boas práticas de Git/GitHub e fluxos de branching
