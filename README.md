@@ -15,9 +15,10 @@ Me chamo Nicollas, sou desenvolvedor front-end em transição de carreira e sou 
  
 <br>
 ## 📚 Atualmente estudando
+
 - React (`useState`, `useEffect`, `useSearchParams`)
 - Padrões de organização CSS (7-1, ITCSS)
 - Boas práticas de Git/GitHub e fluxos de branching
-## 🔗 Conecte-se comigo
 
+## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-de-lucena-3452b5382/)
