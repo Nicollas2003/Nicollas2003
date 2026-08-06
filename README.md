@@ -22,4 +22,4 @@ Me chamo Nicollas, sou desenvolvedor front-end em transição de carreira e sou 
 <br>
 ## 🔗 Conecte-se comigo
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicollas-de-lucena-3452b5382)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-de-lucena-3452b5382/)
