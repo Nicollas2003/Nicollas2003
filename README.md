@@ -1,4 +1,4 @@
-## Nicollas Lucena
+## 👨‍💻 Nicollas Lucena
 
 **`Desenvolvedor Front-end`**
 
