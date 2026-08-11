@@ -2,8 +2,8 @@
  
 `Desenvolvedor Front-end`
  
-Me chamo Nicollas, sou desenvolvedor front-end em transição de carreira e sou natural de Curitiba, no Paraná. Antes de entrar para a área de tecnologia, atuei por cerca de cinco anos em gestão de estoque e montagem de veículos. Atualmente, estou me dedicando ao estudo de HTML5, CSS3, JavaScript (ES6+) e Git/GitHub, além de estar aprofundando meus conhecimentos em React. Sou apaixonado por tecnologia e games, interesse que foi justamente o que me motivou a migrar para a programação, e venho aplicando esse aprendizado na construção de projetos próprios, como sites responsivos e até mesmo jogos.
- 
+Me chamo Nicollas, sou desenvolvedor front-end em transição de carreira e sou natural de Curitiba, no Paraná. Antes de entrar para a área de tecnologia, atuei por cerca de cinco anos em gestão de estoque e montagem de veículos. Atualmente, estou me dedicando ao estudo de HTML5, CSS3, JavaScript (ES6+) e Git/GitHub, além de estar aprofundando meus conhecimentos em React. Sou apaixonado por tecnologia e games, interesse que foi justamente o que me motivou a migrar para a programação, e venho aplicando esse aprendizado na construção de projetos próprios, como sites responsivos.
+Busco uma oportunidade para colocar todo o meu aprendizado em prática, seja como estágiario ou dev junior!
 <br>
  🛠️ Linguagens e Tecnologias
  
