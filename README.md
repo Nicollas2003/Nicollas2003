@@ -18,8 +18,8 @@ Busco uma oportunidade para colocar todo o meu aprendizado em prática, seja com
  📚 Atualmente estudando
 
 - React (`useState`, `useEffect`, `useSearchParams`)
-- Padrões de organização CSS (7-1, ITCSS)
-- Boas práticas de Git/GitHub e fluxos de branching
+- Api e Api rest.
+- Projeto simples com react.
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-de-lucena-3452b5382/)
